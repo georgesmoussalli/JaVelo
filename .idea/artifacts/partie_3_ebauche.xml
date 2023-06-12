@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="partie 3 ebauche">
+    <output-path>$PROJECT_DIR$/out/artifacts/partie_3_ebauche</output-path>
+    <root id="root">
+      <element id="directory" name="rendu">
+        <element id="archive" name="partie3ebauche.zip">
+          <element id="directory" name="projet">
+            <element id="directory" name="src">
+              <element id="dir-copy" path="$PROJECT_DIR$/src" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="unnamed">
+    <output-path>$PROJECT_DIR$/out/artifacts/unnamed</output-path>
+    <root id="root">
+      <element id="directory" name="Rendu">
+        <element id="archive" name="projet.zip">
+          <element id="directory" name="Projet">
+            <element id="directory" name="JaVelo">
+              <element id="dir-copy" path="$PROJECT_DIR$" />
+            </element>
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
